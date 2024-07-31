@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  width: 500px;
+  border: 2px black solid;
+  background-color: rgb(136, 155, 241);
+}
+
+label{
+  width: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.AppForm{
+  width: 100%;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: blanchedalmond;
+  padding: 10px;
+}
+
+.Color{
+  background-color: aquamarine;
+}
+
+img{
+  width: 100%;
+}
+
+h1{
+  font-family: cursive;
+}
